@@ -23,17 +23,6 @@ namespace Lesson_5_question_3
 
         static void Main(string[] args)
         {
-            //Random random = new Random();
-            //int rnd = random.Next(0, 255);
-            //int rnd1 = random.Next(0, 10);
-            //int[,] numSun = new int[1,rnd1];
-            //for(int i=0;i<numSun.GetLength(0);i++)
-            //{
-            //   for(int j=0;j<numSun.GetLength(1);j++)
-            //    {
-            //        numSun[i, j] += rnd;
-            //    }
-            //}
             
          
 
